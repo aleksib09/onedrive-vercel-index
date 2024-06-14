@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Instagram',
+      name: 'Website',
       link: 'https://inceptionracing.us',
     },
   ],
