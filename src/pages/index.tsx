@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
-        <title>{siteConfig.title}</title>
+        <title>High quality, full length F1/WEC/IndyCar/WRC and other motorsport race replay! Race Replays by Inception</title>
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
