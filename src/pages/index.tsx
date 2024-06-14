@@ -12,7 +12,9 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
-        <title>High quality, full length F1/WEC/IndyCar/WRC and other motorsport race replay! Race Replays by Inception</title>
+        <title>High quality, full length F1/WEC/IndyCar/WRC and other motorsport championships race replays - Race Replays by Inception</title>
+        <meta id="meta-description" name="description" content="The collection of high quality, full length F1/WEC/IndyCar/WRC and other motorsports championships race replays. Feel free to download and enjoy it for free!" />
+        <meta id="og-tag" property="og:tag" content="Replay, WEC, WRC, F1, IndyCar, Race, Motorsport, Full" />
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
